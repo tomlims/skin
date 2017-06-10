@@ -1,0 +1,38 @@
+
+<------BASE PARA SKIN BY: POETIFICADA
+SKIN EDITADA POR HABITARTS------->
+
+#player,#player a{ color:#eeeeee;  font-size: 10px; font-family: arial;}
+#player{ background:url(http://static.tumblr.com/kwaqeuc/eb7lze93x/sizerandvolj_copy.png); background-position:bottom; background-color: #ffffff;}
+#player .mainImage{ background:url(https://68.media.tumblr.com/babbea9a6def89ffd38a66f946815a94/tumblr_orcfgvLwC91vhkxrfo1_400.png); }
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:26px; }
+#player #play{ background:url(https://68.media.tumblr.com/b7386325566809c75dc17921934f5bf7/tumblr_orcfgvLwC91vhkxrfo2_75sq.png); }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px;  font-size: 9px; }
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px;  }
+#player #list{ right:0px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#ffffff;  }
+#player #seekerBuffered{ background-color:#d5d9b6; }
+#player #seekerSliderBase{ background-color:#4b4a4a; }
+
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:8px; background:url(https://68.media.tumblr.com/ffcad2ef84697c9d2cedeb4707bd2167/tumblr_orcf09FmZb1vhkxrfo1_75sq.png); }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#ffffff;}
+#playlist .module{  color:#A COR DA FONT DA PLAY; background-color:#ffffff; }
+#playlist h3{ background:url(http://dl.dropbox.com/u/58708531/bar2.jpg); color:#4b4a4a; background-color:#ffffff;  }
+#playlist .even{background-color:#fff;}
+#playlist .odd{ background-color:#fff;}
+#playlist .focus{ background-color:#fff; color:#aaa;}
+
+
+<------BASE PARA SKIN BY: POETIFICADA
+SKIN EDITADA POR HABITARTS------->
